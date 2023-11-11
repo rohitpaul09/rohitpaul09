@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohitpaul09" target="blank"><img align="center" src="https://drive.google.com/file/d/1ZVGazeNB1pvQtSFH1x7pC-OOAiDGlx5B/view?usp=sharing" alt="rohitpaul09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohitpaul09" target="blank"><img align="center" src="https://drive.google.com/file/d/1iWJM3Y_4gN7IIPAk2MJHwYGtz9vYx-8f/view?usp=sharing" alt="rohitpaul09" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@rohitpaulanalytics" target="blank"><img align="center" src="https://drive.google.com/file/d/10l9Mp65EqAo1x6xmr_bxaJleRX8yhAcI/view?usp=sharing" alt="@rohitpaulanalytics" height="30" width="40" /></a>
+<a href="https://twitter.com/rohitpaul09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitpaul09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohitpaul09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitpaul09" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@rohitpaulanalytics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rohitpaulanalytics" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
