@@ -38,15 +38,16 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://commons.wikimedia.org/wiki/File:Microsoft_Excel_2013-2019_logo.svg" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013-2019_logo.svg/512px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Microsoft Excel" width="40" height="40"/>
   </a>
   <a href="https://www.flickr.com/photos/141573413@N04/42099499622" target="_blank" rel="noreferrer">
-    <img src="https://www.flickr.com/photos/141573413@N04/42099499622" alt="Flickr" width="40" height="40"/>
+    <img src="https://live.staticflickr.com/1733/42099499622_c3fae1a930_b.jpg" alt="Flickr" width="40" height="40"/>
   </a>
   <a href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitpaul09&show_icons=true&locale=en&layout=compact" alt="rohitpaul09" /></p>
