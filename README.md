@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning (ML)**
 
-- 💬 Ask me about **Python, SQL, Tableau, Power Bi, Excel**
+- 💬 Ask me about **Python, SQL, R, Tableau, Power Bi, Excel**
 
 - 📫 How to reach me **rohitpaul09@gmail.com**
 
