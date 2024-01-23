@@ -10,7 +10,6 @@
 📫 How to reach me: **rohitpaul09@gmail.com**
 
 📊 Some of my recent works:
-📊 Some of my recent works:
 
 | HR Analytics Dashboard | Playstore Dashboard |
 |:----------------------:|:-------------------:|
