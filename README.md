@@ -5,13 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/rohitpaul09" target="blank"><img src="https://img.shields.io/twitter/follow/rohitpaul09?logo=twitter&style=for-the-badge" alt="rohitpaul09" /></a> </p>
 
-- 🔭 I’m currently working on **Medical Inventory Optimization**
+💬 I am proficient in **Excel VBA, Python, SQL, R, Tableau, Power BI, DAX**
 
-- 🌱 I’m currently learning **Machine learning (ML)**
+📫 How to reach me: **rohitpaul09@gmail.com**
 
-- 💬 Ask me about **Python, SQL, R, Tableau, Power Bi, Excel**
+📊 Some of my recent works:
+📊 Some of my recent works:
 
-- 📫 How to reach me **rohitpaul09@gmail.com**
+| HR Analytics Dashboard | Playstore Dashboard |
+|:----------------------:|:-------------------:|
+| ![HR Analytics Dashboard](https://drive.google.com/uc?id=1ezmZlb8-9MtoEvD3mcvo03rR9khdUQuX) | ![Tableau Playstore Dashboard](https://drive.google.com/uc?id=1AEHHI3M-NozP5ZwDBfuYxtWVOJ4GADmB) |
+
+| Pharmacy Dashboard | VBA Dashboard |
+|:------------------:|:-------------:|
+| ![Pharmacy Dashboard](https://drive.google.com/uc?id=1RUxsHkBloDD8G1jdk_4eCa91IwLYsQ27) | ![VBA Dashboard](https://drive.google.com/uc?id=1e1tDgTUYFH69blDAJoJNLIS1YW5Mu7NK) |
+
 
 <br/>  
 
